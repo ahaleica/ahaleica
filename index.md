@@ -1,5 +1,7 @@
 ## 啊哈，莱卡！
 
+
+
 ![image](https://user-images.githubusercontent.com/109412346/179347719-ceb4a4b1-ddcf-44be-ad33-fe2373c16242.png)
 ![image](https://user-images.githubusercontent.com/109412346/179347742-ab6b444a-9c07-46b8-af60-6926bdc4688d.png)
 ![image](https://user-images.githubusercontent.com/109412346/179347734-290c9f53-f18e-43e4-b264-4713be83d380.png)
@@ -10,6 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/109412346/179381998-ee0bf868-a173-45aa-acf0-1a6b4c48844a.png)
 ![image](https://user-images.githubusercontent.com/109412346/179381999-3266cef0-be65-410c-9e7a-47902601c90c.png)
+![image](https://user-images.githubusercontent.com/109412346/179382072-8b4ad1ae-c37b-433b-9947-559c9c3a1165.png)
+![image](https://user-images.githubusercontent.com/109412346/179382074-0fa8d7a5-5921-4af6-98ec-7723a818eca8.png)
 
 ```
 影像，是这个时代人们最重要的语言。
@@ -44,6 +48,7 @@
 ![image](https://user-images.githubusercontent.com/109412346/179381940-5cf61fb6-3e43-4c36-ba68-3b268cee40b1.png)
 ![image](https://user-images.githubusercontent.com/109412346/179381935-22061483-e6ab-4185-a0c0-8495a7e9f8ae.png)
 ![image](https://user-images.githubusercontent.com/109412346/179381884-cfcc3bcd-841e-42f5-8831-fd54b78ca8a8.png)
+
 
 
 ![Alt](https://repobeats.axiom.co/api/embed/cb158f7213b3e18079ae2f72ac4dec915ad48889.svg "Repobeats analytics image")
