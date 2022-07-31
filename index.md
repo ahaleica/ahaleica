@@ -1,7 +1,5 @@
 ## 啊哈，莱卡！
 
-
-
 ![image](https://user-images.githubusercontent.com/109412346/179347719-ceb4a4b1-ddcf-44be-ad33-fe2373c16242.png)
 ![image](https://user-images.githubusercontent.com/109412346/179347742-ab6b444a-9c07-46b8-af60-6926bdc4688d.png)
 ![image](https://user-images.githubusercontent.com/109412346/179347734-290c9f53-f18e-43e4-b264-4713be83d380.png)
@@ -74,6 +72,35 @@
 ![image](https://user-images.githubusercontent.com/109412346/179390135-8dffba03-27b3-4667-b069-ac790d7dca16.png)
 ![image](https://user-images.githubusercontent.com/109412346/179390137-f1c4d3b7-ad5e-4099-8864-d2c58f135dd1.png)
 
+> ahaip: 用脚步丈量世界，用眼睛欣赏世界，用行动改善世界...纪录是第一步...
+
+![image](https://user-images.githubusercontent.com/109412346/182011219-16a00b92-c763-442f-8231-bd852adddec3.png)
+![image](https://user-images.githubusercontent.com/109412346/182011223-4369c927-30c6-4384-978a-98bbbad63f0c.png)
+![image](https://user-images.githubusercontent.com/109412346/182011224-7be56c51-85a0-4042-b44e-eaff6459c22c.png)
+![image](https://user-images.githubusercontent.com/109412346/182011227-e83836bd-531f-4573-b9cb-497ae0b622f6.png)
+![image](https://user-images.githubusercontent.com/109412346/182011228-5e228f4d-a86e-42d2-847d-0b97051b940f.png)
+![image](https://user-images.githubusercontent.com/109412346/182011230-2d05047d-72b5-40a9-b8cc-2e8ef4591304.png)
+![image](https://user-images.githubusercontent.com/109412346/182011233-ff41faab-4f22-4d0b-a2e8-36dc6f5c2d5c.png)
+![image](https://user-images.githubusercontent.com/109412346/182011234-8782d6e8-b0e6-4756-b3d1-d30f40e84531.png)
+![image](https://user-images.githubusercontent.com/109412346/182011236-3837de9b-793e-4473-8468-84bd4be1b3e6.png)
+![image](https://user-images.githubusercontent.com/109412346/182011238-a280a3df-3eaf-4ebc-833c-f38ae030305a.png)
+![image](https://user-images.githubusercontent.com/109412346/182011241-0ababedb-6cad-4b06-b69f-d01cdb296abf.png)
+![image](https://user-images.githubusercontent.com/109412346/182011243-6673e725-d554-4bcf-bdca-3ebb7e56e074.png)
+![image](https://user-images.githubusercontent.com/109412346/182011244-d9196341-534c-48fd-9ff9-5ef3d8a7e1e2.png)
+![image](https://user-images.githubusercontent.com/109412346/182011247-281a6b30-a435-4a21-bd45-5a1e6c220b71.png)
+![image](https://user-images.githubusercontent.com/109412346/182011248-e9b142d3-d55f-45af-8799-ba65d4421be4.png)
+![image](https://user-images.githubusercontent.com/109412346/182011251-8ea2127b-8d86-46be-bb52-18932f754139.png)
+![image](https://user-images.githubusercontent.com/109412346/182011253-ca57a248-2828-40c9-9877-dabafa4cb574.png)
+![image](https://user-images.githubusercontent.com/109412346/182011254-9f08f811-c971-4509-b73b-3b82698b37f1.png)
+![image](https://user-images.githubusercontent.com/109412346/182011255-81b66d2e-eb5a-4732-808d-6594732332c8.png)
+![image](https://user-images.githubusercontent.com/109412346/182011256-5e500cac-0345-4a1e-b713-925f3378c8e7.png)
+![image](https://user-images.githubusercontent.com/109412346/182011257-ec48556d-8931-41c3-bb7e-4b7063abeec5.png)
+![image](https://user-images.githubusercontent.com/109412346/182011258-c9d2ca54-0ead-4c10-b471-22654434507f.png)
+![image](https://user-images.githubusercontent.com/109412346/182011259-57bd7c7f-605e-43ff-b732-7d5790e96c80.png)
+![image](https://user-images.githubusercontent.com/109412346/182011261-fb4bdcdd-0e25-4c2b-9c07-e2818855d50b.png)
+![image](https://user-images.githubusercontent.com/109412346/182011263-eb7279b8-6ecb-4557-b511-44bc3b99927e.png)
+![image](https://user-images.githubusercontent.com/109412346/182011267-545d3994-0fdd-41ba-918c-b43358599128.png)
+![image](https://user-images.githubusercontent.com/109412346/182011269-ce9b34fb-9dd5-423d-a27c-2e5786051466.png)
 
 
 ![Alt](https://repobeats.axiom.co/api/embed/cb158f7213b3e18079ae2f72ac4dec915ad48889.svg "Repobeats analytics image")
